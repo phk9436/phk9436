@@ -1,9 +1,10 @@
+<br><br>
 # "Float like a Butterfly, Sting like a Bee"
 > **나비처럼 날아서 벌처럼 쏘다**
 
 <br>
 때로는 나비처럼 넓게, 때로는 벌처럼 깊게.<br>
-유연하고 조화로운 관점으로 개발합니다.
+<b>유연하고 조화로운 관점</b>으로 개발합니다.
 <br><br>
 
 
@@ -24,8 +25,7 @@
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=#000000)
 <br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phk9436&size_weight=0.5&count_weight=0.5)
-<br><br>
-<br><br>
+<br><br><br><br>
 <div align="center">
     
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphk9436&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://github.com/phk9436)<br>
